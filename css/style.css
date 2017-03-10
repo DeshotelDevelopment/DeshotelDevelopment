@@ -16,5 +16,7 @@ h1 {
 
 #apps {
   font-size: 120%;
-  line-spacing: 20px;
+}
+li {
+  list-style: none;
 }
