@@ -22,7 +22,11 @@ li {
   float: left;
   padding: 20px;
 }
-
+.icons {
+  height: 200px;
+  width: 200px;
+}
+  
 a {
   color: #380a4c
 }
