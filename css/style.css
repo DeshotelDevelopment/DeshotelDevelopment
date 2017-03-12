@@ -12,6 +12,7 @@ h1 {
 #container {
   text-align: center;
   font-size: 175%;
+  margin: auto;
 }
 
 #apps {
