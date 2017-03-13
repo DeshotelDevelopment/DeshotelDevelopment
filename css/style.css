@@ -6,12 +6,13 @@ background: linear-gradient(to left, #FF5F6D , #FFC371); /* W3C, IE 10+/ Edge, F
 }
 
 h1 {
+  padding-top: 40px;
   color: #380a4c;
+  font-size: 2.5em;
 }
 
 .container {
   text-align: center;
-  font-size: 175%;
   margin: auto;
 }
 
@@ -33,7 +34,8 @@ img {
 a {
   color: #380a4c
 }
-/* ul {
-  margin-left: 200px;
+ ul {
+  margin: auto;
+  padding-top: 200px;
 }
- */
+ 
