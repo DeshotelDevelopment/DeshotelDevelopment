@@ -9,7 +9,7 @@ h1 {
   color: #380a4c;
 }
 
-#container {
+.container {
   text-align: center;
   font-size: 175%;
   margin: auto;
